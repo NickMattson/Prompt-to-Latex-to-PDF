@@ -1,0 +1,5 @@
+{
+  "name": "LatexGenius",
+  "description": "Transform your ideas into professional LaTeX documents instantly using Gemini 3 Pro. Seamlessly compile and preview in Overleaf.",
+  "requestFramePermissions": []
+}
